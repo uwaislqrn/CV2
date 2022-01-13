@@ -1,0 +1,21 @@
+h1{
+    color:rgb(22, 209, 53);
+    font-size: 50px;
+}
+    /* id Selector */
+    #heading{
+    color: blue;
+}
+/*img{
+    background-color: red;
+}*/
+
+.pizza{
+    background-color: rgb(98, 98, 180);
+}
+.burger{
+    background-color: rgb(72, 170, 113);
+}
+.circular{
+    border-radius: 100%;
+}
